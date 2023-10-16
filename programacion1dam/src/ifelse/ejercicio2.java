@@ -7,7 +7,7 @@ public class ejercicio2 {
 		
 		Scanner sc1 = new Scanner(System.in);
 		System.out.println("Ingrese un número");
-		int numero = sc1.nextInt();
+		double numero = sc1.nextInt();
 		
 		if (numero>0) {
 			System.out.println("Positivo");
