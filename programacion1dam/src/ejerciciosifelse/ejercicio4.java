@@ -1,4 +1,4 @@
-package ifelse;
+package ejerciciosifelse;
 
 import java.time.Year;
 import java.util.Scanner;
