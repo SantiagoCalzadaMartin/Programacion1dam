@@ -8,22 +8,21 @@ public class ejerciciopractica2 {
 		// TODO Auto-generated method stub
 	
 		int N;
-		int numero=1;
 		int suma=0;
 		
 		Scanner sc1 = new Scanner(System.in);
 		System.out.println("Ingrese un número:");
 		N = sc1.nextInt();
 		
-		for(numero=1;numero<(N+1);numero++) {
+		for(int i=1;i<=N;i++) {
 		
-			if ((numero%2) == 0) {	
-				System.out.println("números par " + numero);
-				suma = suma + numero;
+			if (i%2 == 0) {	
+				System.out.println("números par " + i);
+				suma = suma + i;
 			}
 			
 		}
-		System.out.println("La suma total es " + suma);
+		System.out.println("La suma total de todos los pares de 1 hasta " + N + " es de " + suma);
 	}
 
 }
