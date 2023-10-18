@@ -18,6 +18,7 @@ public class ejerciciopractica4 {
 				factorial = i * factorial;
 				System.out.println(factorial);
 			}
+			System.out.println("El factorial de " + n + " es: " + factorial);
 		}
 		else {
 			System.out.println("Que dices payaso");
