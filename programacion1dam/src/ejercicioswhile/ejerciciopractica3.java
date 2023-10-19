@@ -15,8 +15,8 @@ public class ejerciciopractica3 {
 	
 	while(n>0) {
 		
-		n=n/10;
 		res++;
+		n=n/10;
 		
 	}
 	System.out.println("El número tiene " + res + " dígitos");
