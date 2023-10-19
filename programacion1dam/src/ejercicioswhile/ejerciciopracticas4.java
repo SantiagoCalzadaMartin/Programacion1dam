@@ -15,7 +15,6 @@ public class ejerciciopracticas4 {
 		
 		while(n!=random) {
 			
-			System.out.println("Sígue intentandolo");
 			n = sc1.nextInt();
 			
 				if(n<random) {
