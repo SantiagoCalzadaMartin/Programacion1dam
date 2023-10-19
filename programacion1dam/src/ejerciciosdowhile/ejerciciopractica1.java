@@ -1,11 +1,10 @@
 package ejerciciosdowhile;
 
-public class ejercicio1 {
+public class ejerciciopractica1 {
 
 	public static void main(String[] args) {
-		
-		
-		
+		// TODO Auto-generated method stub
+
 	}
 
 }
