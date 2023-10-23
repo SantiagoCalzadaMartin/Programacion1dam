@@ -2,10 +2,15 @@ package ejerciciosswitch;
 
 import java.util.Scanner;
 
+/**
+ * Class ejerciciopractica3
+ * @author santi
+ */
+
 public class ejerciciopractica3 {
 
 	public static void main(String[] args) {
-
+		
 		Scanner sc1 = new Scanner(System.in);
 		System.out.println("Ingrese su cantidad de dinero:");
 		double n = sc1.nextInt();

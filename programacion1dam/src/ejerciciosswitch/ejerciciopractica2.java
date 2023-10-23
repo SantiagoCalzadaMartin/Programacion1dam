@@ -6,7 +6,7 @@ public class ejerciciopractica2 {
 
 	public static void main(String[] args) {
 
-		int res;
+		double res;
 		Scanner sc1 = new Scanner(System.in);
 		System.out.println("Ingresae un número");
 		int n = sc1.nextInt();
