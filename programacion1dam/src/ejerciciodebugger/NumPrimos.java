@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class NumPrimos {
 
 	public static void main(String[] args) {
-		int i = 1;
+		int i = 2;
         int cont = 1;
 
         while (i <= 10000) {
@@ -22,7 +22,7 @@ public class NumPrimos {
             }
 
             if (Primo == 1) {
-                System.out.println("Numero primo " + i + " y ocupa la posición " + cont);
+                System.out.println("El " + cont + "º " + "número primo es el " + i);
                 cont++;
             }
 
