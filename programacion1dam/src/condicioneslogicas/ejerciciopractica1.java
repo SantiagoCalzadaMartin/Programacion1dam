@@ -7,7 +7,7 @@ public class ejerciciopractica1 {
 	public static void main(String[] args) {
 
 		Scanner sc1 = new Scanner(System.in);
-		System.out.println("¿Cuantos ángulos iguales tiene tu triángulo?");
+		System.out.println("¿Cuantos lados iguales tiene tu triángulo?");
 		int n = sc1.nextInt();
 		
 		if (n == 0 || n == 1) {
