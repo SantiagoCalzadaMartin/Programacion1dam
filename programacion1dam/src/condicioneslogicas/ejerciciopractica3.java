@@ -1,8 +1,18 @@
 package condicioneslogicas;
 
 import java.util.Scanner;
-public class ejerciciopractica3 {
 
+/**
+ * @author santi
+ * Esta es la unica clase de mi programa
+ */
+
+public class ejerciciopractica3 {
+	/**
+	 * Este metodo es el punto de entrada de mi programa
+	 * @param args
+	 */
+	
 	public static void main(String[] args) {
 
 		System.out.println("Ingrese tres números y averigua si esta en orden creciente, decreciente o en ninguno de los dos");

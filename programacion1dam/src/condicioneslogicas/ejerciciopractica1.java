@@ -2,8 +2,17 @@ package condicioneslogicas;
 
 import java.util.Scanner;
 
-public class ejerciciopractica1 {
+/**
+ * @author santi
+ * Esta es la unica clase de mi programa
+ */
 
+public class ejerciciopractica1 {
+	/**
+	 * Este metodo es el punto de entrada de mi programa
+	 * @param args
+	 */
+	
 	public static void main(String[] args) {
 
 		Scanner sc1 = new Scanner(System.in);

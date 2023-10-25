@@ -1,8 +1,18 @@
 package condicioneslogicas;
 
 import java.util.Scanner;
-public class ejerciciopractica2 {
 
+/**
+ * @author santi
+ * Esta es la unica clase de mi programa
+ */
+
+public class ejerciciopractica2 {
+	/**
+	 * Este metodo es el punto de entrada de mi programa
+	 * @param args
+	 */
+	
 	public static void main(String[] args) {
 		
 		System.out.println("Ingrese tres números y averigua cual es el mayor");
