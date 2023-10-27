@@ -16,9 +16,9 @@ public class ejerciciopractica1 {
 	
 	public static void main(String[] args) {
 
-		System.out.println("Introduce una palabra y te diremos cuantos caractéres tiene:");
+		System.out.println("Introduce una palabra y te diremos cuantos caractéres a tiene:");
 		Scanner sc1 = new Scanner(System.in);
-		String n = sc1.next();
+		String n = sc1.nextLine();
 		int cont = 0;
 		
 		n = n.toLowerCase();	

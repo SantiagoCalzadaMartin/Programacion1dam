@@ -18,7 +18,7 @@ public class ejerciciopractica2 {
 
 		System.out.println("introduce una frase para cambiar todas las e por x");
         Scanner sc1 = new Scanner(System.in);
-        String n = sc1.next();
+        String n = sc1.nextLine();
 
         n = n.toLowerCase();
 
