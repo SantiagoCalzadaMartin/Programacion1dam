@@ -23,7 +23,7 @@ public class ejerciciopractica5 {
 		
 		Scanner sc1 = new Scanner(System.in);
 		System.out.println("Ingrese un frase y te decimos si es un palíndromo");
-		String n = sc1.nextLine();
+		String n = sc1.nextLine().toLowerCase();
 		String invert = invertir(n);
 		
 		if (n.equals(invert)) 
