@@ -17,6 +17,7 @@ public class ejerciciopractica1 {
 	enum DiaSemana {
         LUNES, MARTES, MIERCOLES, JUEVES, VIERNES, SABADO, DOMINGO
     }
+	
     public static void main(String[] args) {
 
          Scanner sc1 = new Scanner(System.in);
