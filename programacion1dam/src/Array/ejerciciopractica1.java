@@ -1,7 +1,17 @@
 package Array;
 
+/**
+ * @author santi
+ * Esta es la unica clase de mi programa
+ */
+
 public class ejerciciopractica1 {
 
+	/**
+	 * Este metodo es el punto de entrada de mi programa
+	 * @param args
+	 */
+	
 public static void main(String[] args) {
 		
 		int numeroentero[];
