@@ -28,7 +28,7 @@ public class ejerciciopractica1 {
 	        };
 
 	        int filas = matriz1.length;
-	        int columnas = matriz1[0].length;
+	        int columnas = matriz1.length;
 
 	        int[][] resultado = new int[filas][columnas];
 
