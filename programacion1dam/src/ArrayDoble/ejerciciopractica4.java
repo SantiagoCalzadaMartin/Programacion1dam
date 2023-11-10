@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class ejerciciopractica4 {
 
 	/**
-	 * Este metodo es el punto de entrada de mi programa
+	 * Este metodo es el unico punto de entrada de mi programa
 	 * @param args
 	 */
 	
