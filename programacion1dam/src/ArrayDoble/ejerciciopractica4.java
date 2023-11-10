@@ -43,16 +43,16 @@ public class ejerciciopractica4 {
 	        int k = sc3.nextInt();
 	        System.out.println("por ultimo dime otra ubicacion 0-2, 2 numeros");
 	        Scanner sc4 = new Scanner(System.in);
-	        int p = sc4.nextInt();
+	        int m = sc4.nextInt();
 	        Scanner sc5= new Scanner(System.in);
-	        int l = sc5.nextInt();
+	        int ñ = sc5.nextInt();
 
 	                while(n<=matriz.length && n>=0 && i<=matriz.length && i>=0 && j<=matriz.length && j>=0 && k<=matriz.length && k>=0 && p<=matriz.length && p>=0 && l<=matriz.length && l>=0) {
 
 	                    veces++;
 	                      int a = matriz[n][i];
 	                      int b = matriz[j][k];
-	                      int c = matriz[p][l];
+	                      int c = matriz[m][ñ];
 	                      int sum = a + b + c;
 	                      System.out.println("La suma de los numeros " + a + " + " + b + " + " + c + " es: " + sum);
 	                      a = sc.nextInt();
