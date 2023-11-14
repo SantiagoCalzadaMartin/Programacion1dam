@@ -47,7 +47,7 @@ public class ejerciciopractica4 {
 	        Scanner sc5= new Scanner(System.in);
 	        int ñ = sc5.nextInt();
 
-	                while(n<=matriz.length && n>=0 && i<=matriz.length && i>=0 && j<=matriz.length && j>=0 && k<=matriz.length && k>=0 && p<=matriz.length && p>=0 && l<=matriz.length && l>=0) {
+	                while(n<=matriz.length && n>=0 && i<=matriz.length && i>=0 && j<=matriz.length && j>=0 && k<=matriz.length && k>=0 ) {
 
 	                    veces++;
 	                      int a = matriz[n][i];
