@@ -45,7 +45,7 @@ public class ejerciciopractica5 {
 		}
 		
 		for(int i = 0; i < finalarray.length; i++) {
-			System.out.println(finalarray[i] + " ");
+			System.out.print(finalarray[i] + " ");
 		}
 		
 	}
